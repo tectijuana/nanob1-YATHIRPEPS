@@ -10,6 +10,7 @@ Plantilla generica de todo repositorio.
 3. Git comandos como glosario https://www.atlassian.com/git/glossary
 4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
 5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+follow my baby  https://www.facebook.com/profile.php?id=100005064435910&ref=bookmarks
 
 ----
 
